@@ -1,5 +1,6 @@
 
 title: "R Markdown - Frameworks 2 project"
+authors: Ryan Dimler, Joseph Gilbride, Zack Scionakides 
 output: html_document
 ---
 
